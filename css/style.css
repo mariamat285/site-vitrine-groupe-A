@@ -1,0 +1,29 @@
+nav {
+    background-color: #2c3e50; /* Ton bleu sombre */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style des liens dans la navigation */
+nav a {
+    color: white;
+    text-decoration: none; /* Enlève le soulignement */
+    font-weight: bold;
+    
+    margin: 0 20px; /* Ajoute 20px d'espace à gauche et à droite de chaque lien */
+    padding: 10px 15px; /* Ajoute un peu d'espace cliquable autour du texte */
+    
+    display: inline-block; /* Permet aux marges et paddings de mieux s'appliquer */
+    transition: all 0.3s ease;
+    border-radius: 5px;
+}
+
+/* Effet au survol pour faire plus pro */
+nav a:hover {
+    color: #f1c40f; /* Le jaune Teranga au survol */
+    background-color: rgba(255, 255, 255, 0.1); /* Léger fond brillant */
+}
+/* .section-title {
+    text-align: center;
+    color: #2c3e50;
+} *
