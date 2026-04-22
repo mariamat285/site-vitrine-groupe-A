@@ -95,4 +95,22 @@ style="border:0;" : enlève la bordure
 allowfullscreen : autorise le plein écran
 loading="lazy" : charge la carte seulement quand nécessaire (optimisation)
 
-Cette section permet aux utilisateurs de contacter le restaurant en remplissant un formulaire avec leurs informations (prénom, nom, email) et leur message. Les champs sont obligatoires et le bouton permet d’envoyer la demande.
+Cette section permet aux utilisateurs de contacter le restaurant en remplissant un formulaire avec leurs informations (prénom, nom, email) et leur message. Les champs sont obligatoires et le bouton permet d’envoyer la demande
+<footer>
+Cette partie correspond à la fin de la page web. Elle contient des informations complémentaires et le lien vers le JavaScript.
+<footer>
+Définit le pied de page du site.
+C’est la zone située en bas de la page.
+<address>Avenue Cheikh Anta Diop, Dakar, Sénégal</address>
+Permet d’afficher une adresse de contact.
+La balise <address> est utilisée pour donner des informations de localisation ou de contact (adresse, email, etc.).
+</footer>
+Fin du pied de page.
+<script src="javaScript/script.js"></script>
+Permet de lier un fichier JavaScript externe.
+Ce script peut servir à :
+rendre le site interactif
+valider le formulaire
+ajouter des animations ou fonctionnalités
+Le fait de placer le script à la fin de la page permet de charger le contenu HTML d’abord, ce qui améliore les performances.
+Le <footer> contient les informations de contact du site, tandis que la balise <script> permet d’ajouter des fonctionnalités dynamiques grâce au JavaScript.
