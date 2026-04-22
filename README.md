@@ -34,4 +34,14 @@ La balise nav permet de naviguer entre les pages webs.
 La balise a sert à créer les liens.
 La balise h1 affiche un  titre sur la page.
 La balise div regroupe tous les éléments qui se trouvent à l'intétieur.
-La balise img permet d'insérer des images. 
+La balise img permet d'insérer des images.
+
+
+|Kemo Badji | Page Services  | feature/services |
+La balise main indique aux navigateurs et aux moteurs de recherche où se trouve le contenu principal et unique de votre page.
+La balise span est l'équivalent de la balise div mais pour le texte ou les éléments à l'intérieur d'une ligne. C'est un conteneur générique en ligne (inline).
+LA balise button est un élément interactif conçu pour permettre à l'utilisateur de déclencher une action sur une page web.
+La balise p sert à écrire une paragraghe.
+La balise footer sert à définir le pied de la page.
+La balise adress sert à fournir des informations sémantiques.
+
