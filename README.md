@@ -27,3 +27,11 @@ Ouvrir `index.html` dans un navigateur.
 <title>Le Menu</title> : C’est le nom qui s'affiche sur l'onglet du navigateur.
 <meta name="description" ...> : C'est le petit texte qui apparaîtra sous le nom de votre site dans les résultats de recherche Google.
 <link rel="stylesheet" href="style.css"> : Relie votre code HTML au fichier CSS qui contiendra le design (couleurs, polices, mise en page).
+
+|Kemo Badji | Page Services  | feature/services |
+La balise header nous permet d'afficher les liens en haut de la page web.
+La balise nav permet de naviguer entre les pages webs.
+La balise a sert à créer les liens.
+La balise h1 affiche un  titre sur la page.
+La balise div regroupe tous les éléments qui se trouvent à l'intétieur.
+La balise img permet d'insérer des images. 
