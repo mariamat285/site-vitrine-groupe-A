@@ -17,3 +17,6 @@ Ouvrir `index.html` dans un navigateur.
 ##  Aperçu
 ![Accueil](assets/screenshots/accueil.png)
 ![À propos](assets/screenshots/apropos.png)
+
+| Khadidiatou Diasse| Page d'accueil | feature/accueil |
+Ce code est la structure de base d’une page web HTML. Il ne fait rien de visible pour l’instant, mais il prépare le cadre d’un site appelé “Teranga Food”.
