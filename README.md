@@ -67,3 +67,30 @@ alt : description de l’image (utile pour accessibilité et SEO)
 </header>
 Fin de la bannière et de l’en-tête.
 Cette section <header> permet d’afficher l’en-tête de la page avec un menu de navigation, un titre principal et une image de présentation. Elle facilite la navigation de l’utilisateur et améliore l’apparence du site.
+Cette partie représente la section de contact du site. Elle permet d’afficher les informations nécessaires pour localiser le restaurant.
+<section class="contact-section">
+<section class="contact-section">
+Définit une section de la page dédiée au contact.
+La classe permet de la styliser avec le CSS.
+<div class="contact-info">
+Conteneur qui regroupe les informations de contact.
+<h2>Où nous trouver</h2>
+Sous-titre indiquant que cette partie montre la localisation du restaurant.
+<p>
+    <strong>Adresse :</strong><br>
+    Avenue Cheikh Anta Diop,<br>
+    Dakar, Sénégal
+</p>
+Affiche l’adresse du restaurant.
+<strong> : met en valeur le mot “Adresse”
+<br> : permet de faire des retours à la ligne
+<div class="map-container">
+Conteneur pour intégrer la carte.
+<iframe ...></iframe>
+Permet d’intégrer une carte Google Maps directement dans la page.
+src : lien de la carte
+width="100%" : prend toute la largeur
+height="300" : hauteur de la carte
+style="border:0;" : enlève la bordure
+allowfullscreen : autorise le plein écran
+loading="lazy" : charge la carte seulement quand nécessaire (optimisation)
