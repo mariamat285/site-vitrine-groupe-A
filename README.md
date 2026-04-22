@@ -94,3 +94,5 @@ height="300" : hauteur de la carte
 style="border:0;" : enlève la bordure
 allowfullscreen : autorise le plein écran
 loading="lazy" : charge la carte seulement quand nécessaire (optimisation)
+
+Cette section permet aux utilisateurs de contacter le restaurant en remplissant un formulaire avec leurs informations (prénom, nom, email) et leur message. Les champs sont obligatoires et le bouton permet d’envoyer la demande.
