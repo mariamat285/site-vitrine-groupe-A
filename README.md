@@ -41,3 +41,29 @@ Cela aide à mieux référencer la page sur Google.
 <link rel="stylesheet" href="css/style.css">
 Permet de lier un fichier CSS externe pour styliser la page (couleurs, mise en forme, etc.).
 Cette en-tête permet de configurer la page web en définissant sa langue, son encodage, son adaptation aux différents écrans, son titre, sa description pour le référencement, ainsi que son apparence grâce au fichier CSS.
+<header>
+Balise qui définit l’en-tête de la page.
+Elle regroupe généralement le menu, le logo ou le titre.
+<nav>
+Contient le menu de navigation du site.
+<a href="index.html" title="Accueil">Accueil</a>
+Lien vers la page d’accueil du site.
+<a href="services.html" title="Voir le menu">Menu</a>
+Lien vers la page du menu (plats proposés).
+<a href="contact.html" title="Nous contacter">Contact</a>
+Lien vers la page de contact.
+</nav>
+Fin de la zone de navigation.
+<h1>Nous contacter</h1>
+Titre principal de la page.
+Il indique clairement que l’utilisateur est sur la page Contact.
+<div class="banner">
+Conteneur pour une bannière (zone visuelle).
+<img src="img/image_acceuil.png" alt="Photos du restaurant Teranga Food">
+Image affichée dans la bannière.
+src : chemin de l’image
+alt : description de l’image (utile pour accessibilité et SEO)
+</div>
+</header>
+Fin de la bannière et de l’en-tête.
+Cette section <header> permet d’afficher l’en-tête de la page avec un menu de navigation, un titre principal et une image de présentation. Elle facilite la navigation de l’utilisateur et améliore l’apparence du site.
