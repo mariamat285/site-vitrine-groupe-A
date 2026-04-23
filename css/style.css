@@ -82,5 +82,5 @@ li {
 /* ===== CHIFFRES ===== */
 p:last-of-type {
     font-weight: bold;
-    text-align: center;
+    text-align: start;
 }
