@@ -35,3 +35,6 @@ une image
 
 mon_quatrieme_commit
 Ce code est la suite de ma  page HTML (probablement mon site de restaurant). Il sert à afficher le contenu principal + le bas de page + un script JavaScript. 
+
+mon_cinquieme_commit
+c'set pour l'utilisation de css et pour apporter des modifications sur ma page  et les rendres plus accessibles
