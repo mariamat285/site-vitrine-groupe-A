@@ -17,3 +17,7 @@ Ouvrir `index.html` dans un navigateur.
 ##  Aperçu
 ![Accueil](assets/screenshots/accueil.png)
 ![À propos](assets/screenshots/apropos.png)
+
+
+Ceci est mon dernier commit. Et pour ce qui s'agit des deux premiers commits, j'ai voulu supprimer ce que j'avais écrit au niveau du README.md car c'est le chef qui doit s'en charger.
+
