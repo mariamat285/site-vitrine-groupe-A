@@ -26,4 +26,12 @@ nav a:hover {
 /* .section-title {
     text-align: center;
     color: #2c3e50;
-} *
+} */
+  /* body {
+    background-color:white
+ }  */
+   .team {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+   }
