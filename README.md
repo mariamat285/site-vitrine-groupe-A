@@ -18,6 +18,7 @@ Ouvrir `index.html` dans un navigateur.
 ![Accueil](assets/screenshots/accueil.png)
 ![À propos](assets/screenshots/apropos.png)
 
+feature/contact
 ##| Abdou Aziz Samb | Page Contact   | feature/contact |
 je viens de creer de le fichier "contact.html" ma branche est de "feature/contact"
 <!DOCTYPE html>
@@ -114,3 +115,8 @@ valider le formulaire
 ajouter des animations ou fonctionnalités
 Le fait de placer le script à la fin de la page permet de charger le contenu HTML d’abord, ce qui améliore les performances.
 Le <footer> contient les informations de contact du site, tandis que la balise <script> permet d’ajouter des fonctionnalités dynamiques grâce au JavaScript.
+
+
+Ceci est mon dernier commit. Et pour ce qui s'agit des deux premiers commits, j'ai voulu supprimer ce que j'avais écrit au niveau du README.md car c'est le chef qui doit s'en charger.
+
+ main
